@@ -8,7 +8,7 @@ Purchasing knives with in-game currency. cs2.cssharp,knife
 Command:
 ``
 ```
-!buykf
+!knife
 ```
 
 ``
